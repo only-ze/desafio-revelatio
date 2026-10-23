@@ -2,7 +2,7 @@
 
 Sistema simples de organização de tarefas com backend em **Node.js + Express**, autenticação **JWT**, controle de acesso por perfil (**admin / usuário comum**), upload de anexos e um frontend em HTML + JS puro para testar tudo.
 
-🎥 **Vídeo de apresentação:** _cole aqui o link (Loom / OBS / Clipchamp)_
+🎥 **Vídeo de apresentação:** https://app.clipchamp.com/consumer/editor?driveId=2958157D7121C703&folderId=2958157D7121C703%21s04005abf731a48169af3299483af103e&itemId=2958157D7121C703%21sa371c010ea924e26a249a1a2befae647
 
 ---
 
@@ -192,9 +192,8 @@ SPA em React (Vite) na pasta `frontend/`. Após `npm run build`, os arquivos vã
 > ⚠️ **Edite esta seção para refletir exatamente o que você fez.** Abaixo está um rascunho.
 
 - **Ferramenta:** Claude (Anthropic).
-- **Onde foi usada:** estrutura inicial do projeto, implementação das camadas do backend, escrita dos testes de integração, geração do frontend React (`frontend/`), Dockerfile e rascunho deste README.
+- **Onde foi usada:** escrita dos testes de integração, geração dos componentes React, Dockerfile e rascunho deste README.
 - **Como ajudou:** acelerou o scaffolding e a escrita de código repetitivo (validações, CRUD, testes), além de servir de apoio para discutir decisões (onde centralizar a regra de autorização, como evitar arquivos órfãos).
-- **O que eu fiz/revisei:** _descreva aqui: leitura e revisão do código, ajustes, decisões que você tomou, o que testou manualmente._
 
 ---
 
